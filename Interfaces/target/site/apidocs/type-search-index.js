@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.learningjava.interfaces","l":"IEngineer"},{"p":"com.learningjava.interfaces","l":"InterfaceMain"},{"p":"com.learningjava.interfaces","l":"PcEngineer"}];updateSearchResults();

@@ -1,0 +1,45 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'21'
+-sourcepath
+'/home/ubuntu/NetBeansProjects/Interfaces/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/ubuntu/NetBeansProjects/Interfaces/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Interfaces 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Interfaces 1.0-SNAPSHOT API'
+com.learningjava.interfaces
+/home/ubuntu/NetBeansProjects/Interfaces/src/main/java = 1697109288160
+/home/ubuntu/NetBeansProjects/Interfaces/target/site/apidocs/copy.svg = 1697439811706
+/home/ubuntu/NetBeansProjects/Interfaces/target/site/apidocs/type-search-index.js = 1697439811694
+/home/ubuntu/NetBeansProjects/Interfaces/target/site/apidocs/stylesheet.css = 1697439811706
+/home/ubuntu/NetBeansProjects/Interfaces/target/site/apidocs/allclasses-index.html = 1697439811694
+/home/ubuntu/NetBeansProjects/Interfaces/target/site/apidocs/search.js = 1697439811706
+/home/ubuntu/NetBeansProjects/Interfaces/target/site/apidocs/tag-search-index.js = 1697439811694
+/home/ubuntu/NetBeansProjects/Interfaces/target/site/apidocs/search-page.js = 1697439811706
+/home/ubuntu/NetBeansProjects/Interfaces/target/site/apidocs/module-search-index.js = 1697439811694
+/home/ubuntu/NetBeansProjects/Interfaces/target/site/apidocs/element-list = 1697439811666
+/home/ubuntu/NetBeansProjects/Interfaces/target/site/apidocs/index-all.html = 1697439811702
+/home/ubuntu/NetBeansProjects/Interfaces/target/site/apidocs/link.svg = 1697439811706
+/home/ubuntu/NetBeansProjects/Interfaces/target/site/apidocs/help-doc.html = 1697439811706
+/home/ubuntu/NetBeansProjects/Interfaces/target/site/apidocs/script.js = 1697439811706
+/home/ubuntu/NetBeansProjects/Interfaces/target/site/apidocs/index.html = 1697439811702
+/home/ubuntu/NetBeansProjects/Interfaces/target/site/apidocs/member-search-index.js = 1697439811694
+/home/ubuntu/NetBeansProjects/Interfaces/target/site/apidocs/package-search-index.js = 1697439811694
+/home/ubuntu/NetBeansProjects/Interfaces/target/site/apidocs/overview-tree.html = 1697439811686
+/home/ubuntu/NetBeansProjects/Interfaces/target/site/apidocs/search.html = 1697439811702
+/home/ubuntu/NetBeansProjects/Interfaces/target/site/apidocs/allpackages-index.html = 1697439811694
